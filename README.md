@@ -6,7 +6,7 @@ VISUAL RECOMMENDATION FOR RESTAURANTS  BASED ON ONLINE REVIEWS
  their views and attitudes on online platforms every day, this led to the creation of User Generated Media (UGM)[1]. For
  instance, Twitter, Facebook, yelp etc. are all UMGs, which allow users to freely express their opinions and share their
  experiences, and this even makes it more convenient for people to solve problems in their daily lives. It has become a
- trend for people to use online platforms to express their views.<\br>
+ trend for people to use online platforms to express their views.</br>
  While diet is undoubtedly vital to people, in the age of the internet, the way people choose restaurants has changed. In
  the past, people often relied on the words of mouth recommendations from friends or family to choose a restaurant,
  but nowadays people can access more information about restaurants through online platforms. The product reviews
