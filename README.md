@@ -15,15 +15,14 @@ VISUAL RECOMMENDATION FOR RESTAURANTS  BASED ON ONLINE REVIEWS
  the Internet is larger and the views are more diverse.[3]. This prevents users from being influenced by a single extreme
  viewpoint.Like yelp, which provides a platform for users to evaluate restaurants, users can view restaurant ratings
  or read other people’s reviews to understand the level of service. And people are increasingly relying on evaluating
- products and services based on this information, which helps them to make better decisions[4].
+ products and services based on this information, which helps them to make better decisions[4].</br>
  However, the ratings provided by platforms are sometimes not accurate .In this age of the data-rich internet, reading
  thousands of reviews to obtain an understanding of products and services can be very time-consuming[5]. After
  investigation, the current catering industry does lack a visual recommendation platform for sentiment analysis based on
- user reviews.
+ user reviews.</br>
  In this paper, we set out to build a visualization solution for applying sentiment analysis and topic extraction. Collect
  restaurant data and restaurant user review data from yelp platform, which will be used to train topic models for review
  topic extraction, train machine learning models for sentiment analysis. Then build a visualization platform. With the
-Data Science Paper
  topic model, we will analyze the topic of each review and label it. With the machine learning model, we will analyze
  the sentiment of a review and derive its positive sentiment probability. And quantify the sentiment bias of the review
  through the positive sentiment probability. Compared to platform ratings, emotional features implicit in text are more
